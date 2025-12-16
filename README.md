@@ -1,2 +1,2 @@
 # HOWAY-THE-LADS
-QA REPO
+I have edited the Readme, where's my prize?
